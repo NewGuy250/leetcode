@@ -1,3 +1,6 @@
+# O(n * n!) Time Complexity, because it goes through every permutation for each element
+# O(n * n!) Space Complexity, because of the amount of permutations and recursion depth
+
 class Solution:
     def permute(self, nums):
         n = len(nums)
