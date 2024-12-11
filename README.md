@@ -10,3 +10,4 @@ This is just to keep track of my progress.
 3. Permutations #46
 4. Longest Consecutive Sequence #128
 5. Length of Last Word #58
+6. Majority Element #169
