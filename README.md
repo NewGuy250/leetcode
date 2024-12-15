@@ -13,3 +13,4 @@ This is just to keep track of my progress.
 6. Majority Element #169
 7. Reverse Words in a String #151
 8. Remove Element #27
+9. Merge Sorted Arrays #88
