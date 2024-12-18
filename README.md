@@ -15,3 +15,4 @@ This is just to keep track of my progress.
 8. Remove Element #27
 9. Merge Sorted Arrays #88
 10. Rotate Array #189
+11. Ransom Note#383
