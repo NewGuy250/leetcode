@@ -16,3 +16,4 @@ This is just to keep track of my progress.
 9. Merge Sorted Arrays #88
 10. Rotate Array #189
 11. Ransom Note#383
+12. Plus One #66
