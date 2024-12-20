@@ -17,3 +17,4 @@ This is just to keep track of my progress.
 10. Rotate Array #189
 11. Ransom Note#383
 12. Plus One #66
+13. Factorial Trailing Zeroes #172
