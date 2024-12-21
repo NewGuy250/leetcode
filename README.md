@@ -18,3 +18,4 @@ This is just to keep track of my progress.
 11. Ransom Note#383
 12. Plus One #66
 13. Factorial Trailing Zeroes #172
+14. Sqrt(x) #69
