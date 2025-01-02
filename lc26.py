@@ -2,7 +2,7 @@
 # O(n) Space Complexity, len of nums can be seen
 
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
+    def removeDuplicates(self, nums):
         k = 0
         seen = set()
 
