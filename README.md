@@ -21,3 +21,4 @@ This is just to keep track of my progress.
 14. Sqrt(x) #69
 15. Remove Duplicates from Sorted Array #26
 16. Best Time to Buy and Sell Stock #121
+17. Valid Anagram #242
