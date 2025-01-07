@@ -1,5 +1,5 @@
 # O(n), Time Complexity, length of str is n
-#O(1), Space Complexity
+# O(1), Space Complexity
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:  
